@@ -16,3 +16,7 @@ Meaning, if a user A likes products X and Y, and if another user B likes product
 
 #### The data  
 The data can be downloaded from [here](https://grouplens.org/datasets/movielens/latest/)   
+
+#### The code
+You can access the code [here](Movies_Recommendation_System.ipynb)  
+It is pretty self explanatory
